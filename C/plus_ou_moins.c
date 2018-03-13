@@ -14,25 +14,22 @@
 #include <stdlib.h>
 #include <time.h>
 
-int		receive(int n)
-{
-	int	t;
-	printf("Quel est le nombre ? ");
-	scanf("%d", &t);
-	if (n == t)
-		return (0);
-	printf(n < t ? "C'est moins !\n" : "C'est plus !\n");
-	return (1);
-}
-
 int     main(void)
 {
     int	n;
+	int	t;
 
     srand(time(NULL));
     n = rand() % 100 + 1;
-    while (receive(n))
-		;
+	do {
+	printf("Quel est le nombre ? ");
+	scanf("%d", &t);
+	if (n < t)
+		printf("C'est moins !\n");
+	if (n > t)
+		printf("C'est plus !\n");
+	}
+    while (n != t);
 	printf("Bravo, vous avez trouve le nombre mystere !!!\n");
     return (0);
 }
