@@ -1,0 +1,1 @@
+Ecrivez un programme calculette.js qui calcule et affiche le résultat de l'addition, de la soustraction, de la multiplication et de la division de 6 par 3.

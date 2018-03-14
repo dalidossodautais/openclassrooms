@@ -1,0 +1,1 @@
+Modifiez le programme bonjour.js créé précédemment pour afficher le nom et le prénom de l'utilisateur. Attention à bien respecter les espaces entre les mots dans le message final.

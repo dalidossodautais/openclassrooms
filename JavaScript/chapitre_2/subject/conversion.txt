@@ -1,0 +1,1 @@
+Ecrivez un programme conversion.js qui fait saisir une température en degrés celsius, puis affiche le résultat de sa conversion en degrés fahrenheit. Rappel : en informatique, la virgule s'écrit avec un point.

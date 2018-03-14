@@ -1,0 +1,1 @@
+Ecrivez un programme jour_suivant.js qui fait saisir un nom de jour à l'utilisateur, puis affiche le nom du jour suivant. Les erreurs de saisie (jour incorrect) doivent être gérées.
