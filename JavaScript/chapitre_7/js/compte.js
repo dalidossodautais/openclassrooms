@@ -1,4 +1,4 @@
-var chien = {
+var compte = {
 	titulaire: "Alex",
 	solde: 0,
 	
@@ -9,6 +9,6 @@ var chien = {
 		this.solde -= montant;
 	},
 	decrire: function (montant) {
-		console.log("Titulaire : " + chien.titulaire)
+		console.log("Titulaire : " + this.titulaire + ", solde : " + this.solde + " euros");
 	}
 };
