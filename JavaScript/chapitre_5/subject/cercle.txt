@@ -1,0 +1,1 @@
+Ecrivez un programmecercle.js qui contient deux fonctionsperimetre() etaire() qui calculent respectivement le périmètre et l'aire d'un cercle à partir de son rayon. Testez vos fonctions avec un rayon saisi par l'utilisateur.

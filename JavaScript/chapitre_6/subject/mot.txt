@@ -1,0 +1,1 @@
+Créez un programme mot.js qui fait saisir un mot à l'utilisateur, puis affiche quelques informations sur le mot saisi, comme dans l'exemple ci-dessous.

@@ -1,0 +1,3 @@
+Ecrivez un programme multiplication.js qui fait saisir un nombre à l'utilisateur puis affiche la table de multiplication de ce nombre.
+
+Ensuite, améliorez votre programme pour vérifier que le nombre saisi soit compris entre 2 et 9, en vous inspirant de l'exercice précédent.

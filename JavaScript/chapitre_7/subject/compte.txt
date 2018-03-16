@@ -1,0 +1,15 @@
+Ecrivez un programme compte.js qui crée un objet compte ayant les propriétés suivantes :
+
+Une propriété titulaire valant "Alex".
+
+Une propriété solde valant initialement 0.
+
+Une méthode crediter() ajoutant le montant passé en paramètre au solde du compte.
+
+Une méthode debiter() retirant le montant passé en paramètre du solde du compte.
+
+Une méthode decrire() renvoyant la description du compte.
+
+Utilisez cet objet pour afficher sa description, le créditer puis le débiter de montants saisis successivement par l'utilisateur, puis afficher de nouveau sa description.
+
+Voici le résultat à obtenir pour un crédit de 200 puis un débit de 150.

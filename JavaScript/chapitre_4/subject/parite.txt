@@ -16,3 +16,5 @@ console.log(19 % 3); // Affiche 1 car 19 = 3 * 6 + 1
 console.log(20 % 3); // Affiche 2 car 20 = 3 * 6 + 2
 
 Modifiez le programme parite.js pour qu'il affiche aussi les nombres impairs.
+
+Ensuite, améliorez le programme pour que le nombre initial soit saisi par l'utilisateur.
