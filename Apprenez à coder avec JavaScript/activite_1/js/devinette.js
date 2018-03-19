@@ -1,19 +1,3 @@
-/*
-console.log("Bienvenue dans ce jeu de devinette !");
-var solution = Math.floor(Math.random() * 100) + 1;
-var reponse;
-do
-{
-	reponse = Number(prompt("Saisissez une valeur :"));
-	if (solution < reponse)
-		console.log(reponse + " est trop grand");
-	if (solution > reponse)
-		console.log(reponse + " est trop petit");
-}
-while (solution != reponse);
-console.log("Bravo ! La solution était " + reponse);
-*/
-
 console.log("Bienvenue dans ce jeu de devinette !");
 var solution = Math.floor(Math.random() * 100) + 1;
 var reponse;
