@@ -1,1 +1,0 @@
-Ecrivez un programme nombre_jours.js qui fait saisir le numéro d'un mois (nombre entre 1 et 12) puis affiche le nombre de jours de ce mois. On ne tiendra pas compte des années bissextiles. Les erreurs de saisie doivent être gérées.

@@ -1,1 +1,0 @@
-Ecrivez un programme tva.js qui fait saisir un prix hors taxes à l'utilisateur, puis qui affiche le prix TTC correspondant en se basant sur un taux de TVA à 19,6%.

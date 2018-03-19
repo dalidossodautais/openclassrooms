@@ -1,8 +1,0 @@
-Complétez le programme cercle.js ci-dessous pour ajouter la définition de l'objet cercle. La valeur de son rayon est saisie par l'utilisateur.
-
-var r = Number(prompt("Entrez le rayon d'un cercle :"));
-
-// TODO : ajoutez ici la définition de l'objet cercle
-
-console.log("Son périmètre vaut " + cercle.perimetre());
-console.log("Son aire vaut " + cercle.aire());

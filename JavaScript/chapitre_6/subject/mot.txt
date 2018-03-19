@@ -1,9 +1,0 @@
-Créez un programme mot.js qui fait saisir un mot à l'utilisateur, puis affiche quelques informations sur le mot saisi, comme dans l'exemple ci-dessous.
-
-Complétez le programme mot.js en y ajoutant une fonction compterNbVoyelles() qui prend un mot en paramètre et renvoie son nombre de voyelles. Utilisez cette fonction pour afficher le nombre de voyelles et de consonnes du mot.
-
-Complétez le programme mot.js avec une fonction inverser() qui prend en paramètre un mot et renvoie ce mot écrit à l'envers. Utilisez cette fonction pour afficher le mot inversé.
-
-Complétez le programme mot.js en utilisant la fonction inverser() pour vérifier si le mot est un palindrome ou non.
-
-Complétez le programme mot.js avec une fonction convertirEnLeetSpeak() qui prend en paramètre un mot et renvoie son équivalent leet. Utilisez cette fonction pour afficher le mot converti.

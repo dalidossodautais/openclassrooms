@@ -1,1 +1,0 @@
-Ecrivez un programme baccalaureat.js qui fait saisir la moyenne d'un candidat puis affiche si ce candidat est recalé (moyenne inférieure à 10), reçu (moyenne entre 10 et 12) ou reçu avec mention (moyenne supérieure ou égale à 12).

@@ -1,7 +1,0 @@
-Observez le programme valeurs.js ci-dessous puis tentez de prévoir les valeurs affichées lors de son exécution.
-
-console.log(4 + 5);
-console.log("4 + 5");
-console.log("4" + "5");
-
-Vérifiez vos prévisions en créant ce programme puis en l'exécutant.

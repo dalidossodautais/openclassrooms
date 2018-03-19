@@ -1,3 +1,0 @@
-Ecrivez un programme manege.js qui fait faire 10 tours de manège en affichant un message à chaque tour.
-
-Ensuite, améliorez votre programme pour que le nombre de tours soit saisi par l'utilisateur.

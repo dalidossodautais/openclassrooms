@@ -1,1 +1,0 @@
-Ecrivez un programme presentation.js qui affiche votre nom et votre âge.

@@ -1,1 +1,0 @@
-Ecrivez un programme oui_non.js qui fait jouer l'utilisateur au ni oui, ni non : il entre un texte jusqu'à saisir "oui" ou "non", ce qui déclenche la fin du jeu.
